@@ -9,18 +9,9 @@ Cisco Packet Tracer is a network simulation tool that lets you experiment with n
 
 ## Installation
 
-The easiest way to install is using an AUR helper:
-
-```bash
-# Using yay
-yay -S packettracer-bin
-```
-
-If you prefer to build it manually:
-
 1. Clone the repository:
    ```bash
-   git clone https://aur.archlinux.org/packettracer-bin.git
+   git clone https://github.com/spaciousejar/packettracer-bin.git
    cd packettracer-bin
    ```
 
